@@ -3,7 +3,15 @@ package view;
 public class Test {
 
 	public static void main(String[] args) {
-   new View();
+		
+		
+			
+			
+			new View();
+		
+		
+		
+		
 		
 		
 		
